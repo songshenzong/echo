@@ -1,4 +1,4 @@
-# Bash Echo
+# EchoX
 
 Bash Echo Methods for Cli
 
@@ -7,7 +7,7 @@ Bash Echo Methods for Cli
 Require this package with composer:
 
 ```shell
-composer require songshenzong/echo
+composer require songshenzong/echox
 ```
 
 After updating composer, add the ServiceProvider to the providers array in `config/app.php`
@@ -15,14 +15,14 @@ After updating composer, add the ServiceProvider to the providers array in `conf
 ### Laravel 5.x:
 
 ```php
-Songshenzong\Echo\ServiceProvider::class,
+Songshenzong\Echox\ServiceProvider::class,
 ```
 
 
 
 ## Documentation
 
-Please refer to our extensive [Wiki documentation](https://github.com/songshenzong/echo/wiki) for more information.
+Please refer to our extensive [Wiki documentation](https://github.com/songshenzong/echox/wiki) for more information.
 
 
 ## Support

@@ -1,11 +1,11 @@
 <?php
 
-namespace Songshenzong\BashEcho;
+namespace Songshenzong\Echox;
 
 /**
  * Class Facade
  *
- * @package Songshenzong\BashEcho
+ * @package Songshenzong\Echox
  */
 class Facade extends \Illuminate\Support\Facades\Facade
 {
@@ -14,6 +14,6 @@ class Facade extends \Illuminate\Support\Facades\Facade
      */
     protected static function getFacadeAccessor()
     {
-        return 'BashEcho';
+        return 'Echox';
     }
 }

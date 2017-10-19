@@ -1,4 +1,4 @@
-# Songzhenzong Echo ChangeLog
+# Songzhenzong Echox ChangeLog
 
 ---
 

@@ -1,14 +1,14 @@
 <?php
 
-namespace Songshenzong\BashEcho;
+namespace Songshenzong\Echox;
 
 
 /**
- * Class BashEcho
+ * Class Echox
  *
- * @package Songshenzong\BashEcho
+ * @package Songshenzong\Echox
  */
-class BashEcho
+class Echox
 {
     /**
      * @param $string

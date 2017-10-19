@@ -1,5 +1,5 @@
 {
-  "name": "songshenzong/echo",
+  "name": "songshenzong/echox",
   "description": "Echo Methods",
   "keywords": [
     "echo",
@@ -9,8 +9,8 @@
   "license": "MIT",
   "homepage": "http://songshenzong.com",
   "support": {
-    "issues": "https://github.com/songshenzong/echo/issues",
-    "source": "https://github.com/songshenzong/echo"
+    "issues": "https://github.com/songshenzong/echox/issues",
+    "source": "https://github.com/songshenzong/echox"
   },
   "authors": [
     {
@@ -23,7 +23,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Songshenzong\\BashEcho\\": "src/"
+      "Songshenzong\\Echox\\": "src/"
     },
     "files": [
       "src/Helpers.php"

@@ -1,11 +1,11 @@
 <?php
 
-namespace Songshenzong\BashEcho;
+namespace Songshenzong\Echox;
 
 /**
  * Class ServiceProvider
  *
- * @package Songshenzong\BashEcho
+ * @package Songshenzong\Echox
  */
 class ServiceProvider extends \Illuminate\Support\ServiceProvider
 {
@@ -24,10 +24,10 @@ class ServiceProvider extends \Illuminate\Support\ServiceProvider
      */
     public function register()
     {
-        $this->app->singleton('BashEcho', function ($app) {
-            return new BashEcho($app);
+        $this->app->singleton('Echox', function ($app) {
+            return new Echox($app);
         });
 
-        $this->app->alias('BashEcho', Facade::class);
+        $this->app->alias('Echox', Facade::class);
     }
 }

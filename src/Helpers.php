@@ -5,7 +5,7 @@ if (!function_exists('echoRed')) {
     /**
      * Get the instance
      *
-     * @return \Songshenzong\BashEcho\BashEcho
+     * @return \Songshenzong\Echox\Echox
      *
      * @param $string
      *
@@ -13,7 +13,7 @@ if (!function_exists('echoRed')) {
      */
     function echoRed($string)
     {
-        return \Songshenzong\BashEcho\BashEcho::echoRed($string);
+        return \Songshenzong\Echox\Echox::echoRed($string);
     }
 }
 
@@ -22,7 +22,7 @@ if (!function_exists('echoGreen')) {
     /**
      * Get the instance
      *
-     * @return \Songshenzong\BashEcho\BashEcho
+     * @return \Songshenzong\Echox\Echox
      *
      * @param $string
      *
@@ -30,7 +30,7 @@ if (!function_exists('echoGreen')) {
      */
     function echoGreen($string)
     {
-        return \Songshenzong\BashEcho\BashEcho::echoGreen($string);
+        return \Songshenzong\Echox\Echox::echoGreen($string);
     }
 }
 
@@ -39,7 +39,7 @@ if (!function_exists('echoBrown')) {
     /**
      * Get the instance
      *
-     * @return \Songshenzong\BashEcho\BashEcho
+     * @return \Songshenzong\Echox\Echox
      *
      * @param $string
      *
@@ -47,7 +47,7 @@ if (!function_exists('echoBrown')) {
      */
     function echoBrown($string)
     {
-        return \Songshenzong\BashEcho\BashEcho::echoBrown($string);
+        return \Songshenzong\Echox\Echox::echoBrown($string);
     }
 }
 
@@ -56,7 +56,7 @@ if (!function_exists('echoBlue')) {
     /**
      * Get the instance
      *
-     * @return \Songshenzong\BashEcho\BashEcho
+     * @return \Songshenzong\Echox\Echox
      *
      * @param $string
      *
@@ -64,7 +64,7 @@ if (!function_exists('echoBlue')) {
      */
     function echoBlue($string)
     {
-        return \Songshenzong\BashEcho\BashEcho::echoBlue($string);
+        return \Songshenzong\BashEcho\Echox::echoBlue($string);
     }
 }
 
@@ -72,7 +72,7 @@ if (!function_exists('echoPurple')) {
     /**
      * Get the instance
      *
-     * @return \Songshenzong\BashEcho\BashEcho
+     * @return \Songshenzong\Echox\Echox
      *
      * @param $string
      *
@@ -80,7 +80,7 @@ if (!function_exists('echoPurple')) {
      */
     function echoPurple($string)
     {
-        return \Songshenzong\BashEcho\BashEcho::echoPurple($string);
+        return \Songshenzong\Echox\Echox::echoPurple($string);
     }
 }
 
@@ -89,7 +89,7 @@ if (!function_exists('echoCyan')) {
     /**
      * Get the instance
      *
-     * @return \Songshenzong\BashEcho\BashEcho
+     * @return \Songshenzong\Echox\Echox
      *
      * @param $string
      *
@@ -97,6 +97,6 @@ if (!function_exists('echoCyan')) {
      */
     function echoCyan($string)
     {
-        return \Songshenzong\BashEcho\BashEcho::echoCyan($string);
+        return \Songshenzong\Echox\Echox::echoCyan($string);
     }
 }
