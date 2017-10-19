@@ -1,0 +1,38 @@
+{
+  "name": "songshenzong/echo",
+  "description": "Echo Methods",
+  "keywords": [
+    "echo",
+    "response",
+    "cli"
+  ],
+  "license": "MIT",
+  "homepage": "http://songshenzong.com",
+  "support": {
+    "issues": "https://github.com/songshenzong/echo/issues",
+    "source": "https://github.com/songshenzong/echo"
+  },
+  "authors": [
+    {
+      "name": "Connor Niu",
+      "email": "connor.niu@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.9"
+  },
+  "autoload": {
+    "psr-4": {
+      "Songshenzong\\BashEcho\\": "src/"
+    },
+    "files": [
+      "src/Helpers.php"
+    ]
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "0.1-dev"
+    }
+  },
+  "minimum-stability": "dev"
+}
