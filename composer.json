@@ -28,6 +28,5 @@
     "files": [
       "src/Helpers.php"
     ]
-  },
-  "minimum-stability": "dev"
+  }
 }
