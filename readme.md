@@ -19,7 +19,6 @@ Songshenzong\Echox\ServiceProvider::class,
 ```
 
 
-
 ## Documentation
 
 Please refer to our extensive [Wiki documentation](https://github.com/songshenzong/echox/wiki) for more information.
