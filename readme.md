@@ -1,4 +1,12 @@
-# EchoX
+[![Songshenzong](https://songshenzong.com/images/logo.png)](https://songshenzong.com)
+
+[![Total Downloads](https://poser.pugx.org/songshenzong/echox/d/total.svg)](https://packagist.org/packages/songshenzong/echox)
+[![Latest Stable Version](https://poser.pugx.org/songshenzong/echox/v/stable.svg)](https://packagist.org/packages/songshenzong/echox)
+[![License](https://poser.pugx.org/songshenzong/echox/license.svg)](https://packagist.org/packages/songshenzong/echox)
+[![PHP Version](https://img.shields.io/packagist/php-v/songshenzong/echox.svg)](https://packagist.org/packages/songshenzong/echox)
+
+
+## About
 
 Bash Echo Methods for Cli
 
