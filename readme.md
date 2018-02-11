@@ -20,7 +20,7 @@ composer require songshenzong/echox
 
 
 
-## Laravel 5.x
+## Before Laravel 5.x
 
 After updating composer, add the ServiceProvider to the providers array in `config/app.php`
 
