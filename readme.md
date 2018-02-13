@@ -19,16 +19,6 @@ composer require songshenzong/echox
 ```
 
 
-
-## Before Laravel 5.x
-
-After updating composer, add the ServiceProvider to the providers array in `config/app.php`
-
-```php
-Songshenzong\Echox\ServiceProvider::class,
-```
-
-
 ## Documentation
 
 Please refer to our extensive [Wiki documentation](https://github.com/songshenzong/echox/wiki) for more information.
