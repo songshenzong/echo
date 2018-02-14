@@ -1,4 +1,4 @@
-[![Songshenzong](https://songshenzong.com/images/logo.png)](https://songshenzong.com)
+[![Songshenzong](https://cdn.songshenzong.com/images/logo.png)](https://songshenzong.com)
 
 [![Total Downloads](https://poser.pugx.org/songshenzong/echox/d/total.svg)](https://packagist.org/packages/songshenzong/echox)
 [![Latest Stable Version](https://poser.pugx.org/songshenzong/echox/v/stable.svg)](https://packagist.org/packages/songshenzong/echox)
